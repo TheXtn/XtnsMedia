@@ -1,0 +1,27 @@
+
+.header a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+
+}
+
+.header button {
+
+  font: inherit;
+  background-color: transparent;
+  border: 1px solid black;
+  color: black;
+  font-weight: bold;
+  padding: 0.5rem 1.5rem;
+  border-radius: 6px;
+  cursor: pointer;
+  text-align: right;
+
+}
+
+
+.header button:hover {
+
+  color: #38015c;
+}
