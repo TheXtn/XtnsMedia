@@ -1,19 +1,17 @@
 
 
-## What is this
+# What is this
 
-This is fullstack app using Nextjs.
-Basically it's like a social media app.
-You can add posts and like others post etc ...
+Social media app.
 
 ## Used Techs
 
-Ant des for some UI.
-Nextjs for Front
-Nextjs-Api for Back
-Mongo Atlas as database
-Next-Auth as helper
+NextJS
 
-## Demo
+MongoDB
 
-https://www.xtnauth.ga/
+Next-Auth
+
+
+
+
